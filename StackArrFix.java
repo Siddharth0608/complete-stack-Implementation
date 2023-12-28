@@ -1,4 +1,4 @@
-public class StackArr implements IntStack{
+public class StackArrFix implements IntStack{
 	int tos;
 	int stk[];
 
